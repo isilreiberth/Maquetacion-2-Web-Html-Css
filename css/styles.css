@@ -546,7 +546,7 @@ aside h3 {
 }
 
 #articles article {
-  width: 100%;
+  width: 98%;
   height: auto;
   border: 1px solid #ccc;
   margin: 40px auto; /*margin por arriba y por abajo y el resto se centra*/
